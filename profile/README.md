@@ -1,4 +1,4 @@
-### apk 위치
+### 설치 apk 경로
 https://github.com/Kusitms-NumberOne/Android/tree/develop/apk
 
 # 🌟 서비스명
