@@ -278,14 +278,17 @@
 
 ## **💻 Technology**
 
-### 🔍 System Architecture
+### System Architecture
 ![대피로 서비스 아키텍쳐](https://github.com/nohy6630/readme_test/assets/129354455/e66ce90b-f032-483e-80c4-28e391038ab0)
 
-### 🔍 Deploy Flow
+### Deploy Flow
 ![AWS 네트워크 다이어그램](https://github.com/nohy6630/readme_test/assets/129354455/4d97d478-536a-4df4-838a-ec1975a832ca)
 
-### 🔍 재난문자 발생 로직
+### 재난문자 발생 로직
 ![image](https://github.com/nohy6630/readme_test/assets/129354455/c9fa3c8e-9999-4141-a076-045cf334df56)
+
+### ERD
+![KakaoTalk_Image_2023-11-23-22-44-02](https://github.com/Kusitms-NumberOne/.github/assets/129354455/220b6a39-da3d-44f6-a362-6d5e9d134b20)
 
 
 
@@ -308,7 +311,7 @@
       ![Redis](https://img.shields.io/badge/Redis-%23DC382D?logo=redis&logoColor=white) 
 
 
-## 기술 스택 선정 이유
+## 🔍 기술 스택 선정 이유
 ### Backend
 
 | 기술 스택 | 설명 |
