@@ -272,7 +272,6 @@ https://github.com/Kusitms-NumberOne/Android/tree/develop/apk
 
 ## **🎨 디자인 무드보드**
 ![KakaoTalk_Image_2023-11-23-23-34-51](https://github.com/Kusitms-NumberOne/.github/assets/129354455/de17b023-7d36-4cdd-b3ed-d6597d537fcd)
-![디자인 이미지](https://github.com/Kusitms-NumberOne/.github/blob/main/profile/image/design_image.png)
 
 
 <br>
