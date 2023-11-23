@@ -12,7 +12,7 @@ https://github.com/Kusitms-NumberOne/Android/tree/develop/apk
 <br>
 
 
-## 서비스 소개를 적어주세요.
+## 서비스 소개
 ### 가장 안전한 길로 안내하는 통로, 안전 재난 알림 서비스 ‘대피로'
 ‘대피로’는 사용자 맞춤형 안전 재난 알림을 수신하고, 공동체의 안녕을 서로 챙겨줄 수 있는 사람들이 모이는 안전 재난 알림 서비스입니다.
 
@@ -21,7 +21,7 @@ https://github.com/Kusitms-NumberOne/Android/tree/develop/apk
 
 
 <br>
-> 📢 ‘대피로’는 모든 이용자들에게 정확한 상황과 대응 방법을 제공하여, 위기 상황에 대한 혼란과 불안을 해소할 수 있길 기대합니다.
+📢 ‘대피로’는 모든 이용자들에게 정확한 상황과 대응 방법을 제공하여, 위기 상황에 대한 혼란과 불안을 해소할 수 있길 기대합니다.
 
 <br>
 
@@ -262,8 +262,8 @@ https://github.com/Kusitms-NumberOne/Android/tree/develop/apk
 
 
 ## 📊 서비스 비즈니스 모델
+![KakaoTalk_Image_2023-11-23-23-24-37](https://github.com/Kusitms-NumberOne/.github/assets/129354455/9811dea6-a987-4199-8f08-394ead6363c0)
 
-![비즈니스모델](https://github.com/Kusitms-NumberOne/.github/blob/main/profile/image/bm_1.png)
  
 후원 페이지에 재난과 관련된 후원을 노출시킴으로서 후원 센터에게는 후원 참여자 모집의 도움을 줌.
 
